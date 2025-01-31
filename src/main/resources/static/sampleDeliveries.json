@@ -1,0 +1,99 @@
+{
+  "deliveries": [
+    {
+      "id": "TR12370",
+      "status": "planned",
+      "plannedDeliveryDate": "2025-03-01T10:47:30.641Z",
+      "category": "truck",
+      "items": [
+        {
+          "id": "0003a",
+          "name": "blue-chair-with-arms",
+          "quantity": 3
+        },
+        {
+          "id": "0015f",
+          "name": "ceiling-lamp",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": "AB43524",
+      "status": "in-progress",
+      "plannedDeliveryDate": "2025-03-06T11:47:30.641Z",
+      "category": "parcel",
+      "items": [
+        {
+          "id": "0003a",
+          "name": "blue-chair-with-arms",
+          "quantity": 3
+        },
+        {
+          "id": "0015a",
+          "name": "laptop-stand",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "AC43526",
+      "status": "delivered",
+      "plannedDeliveryDate": "2025-03-05T11:47:30.641Z",
+      "category": "parcel",
+      "items": [
+        {
+          "id": "0003a",
+          "name": "blue-chair-with-arms",
+          "quantity": 3
+        },
+        {
+          "id": "0015a",
+          "name": "laptop-stand",
+          "quantity": 8
+        },
+        {
+          "id": "0015f",
+          "name": "ceiling-lamp",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "AC41111",
+      "status": "unknown",
+      "plannedDeliveryDate": "2025-03-04T10:50:30.641Z",
+      "category": "truck",
+      "items": [
+        {
+          "id": "0015a",
+          "name": "laptop-stand",
+          "quantity": 4
+        },
+        {
+          "id": "0015f",
+          "name": "ceiling-lamp",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "id": "AC41108",
+      "status": "planned",
+      "plannedDeliveryDate": "2025-03-04T10:50:30.641Z",
+      "category": "truck",
+      "items": [
+        {
+          "id": "0015a",
+          "name": "laptop-stand",
+          "quantity": 5
+        },
+        {
+          "id": "0015f",
+          "name": "ceiling-lamp",
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}
