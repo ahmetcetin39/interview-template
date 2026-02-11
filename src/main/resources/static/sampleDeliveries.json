@@ -22,6 +22,7 @@
       "id": "AB43524",
       "status": "in-progress",
       "plannedDeliveryDate": "2025-03-06T11:47:30.641Z",
+      "actualDeliveryDate": "2025-03-07T12:15:10.333Z",
       "category": "parcel",
       "items": [
         {
@@ -40,6 +41,7 @@
       "id": "AC43526",
       "status": "delivered",
       "plannedDeliveryDate": "2025-03-05T11:47:30.641Z",
+      "actualDeliveryDate": "2025-03-05T12:01:00.333Z",
       "category": "parcel",
       "items": [
         {
@@ -79,7 +81,6 @@
     },
     {
       "id": "AC41108",
-      "status": "planned",
       "plannedDeliveryDate": "2025-03-04T10:50:30.641Z",
       "category": "truck",
       "items": [
